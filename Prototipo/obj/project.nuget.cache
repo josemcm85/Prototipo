@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "haNCtpn34VvO9uM7OOS00pF1bw6OPaZups5yoLbSjaoTVsfUmhbfRSBQaZrEOk0lJYXp1gO98QFLRtQnMOKlow==",
+  "dgSpecHash": "kz1WmX0W/9tNsVyJIMYm9N4IJJYDfD4O5i9Hl7UTgeUpyAWIF64XJvGcbPFFpfOb1m82MknHyGzStJlx5UG7vw==",
   "success": true,
   "projectFilePath": "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\Prototipo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512"
+  ],
   "logs": []
 }
