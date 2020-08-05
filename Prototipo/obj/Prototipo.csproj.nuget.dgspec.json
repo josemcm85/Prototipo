@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\Prototipo.csproj": {}
+    "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\Prototipo.csproj": {
+    "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\Prototipo.csproj",
+        "projectUniqueName": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj",
         "projectName": "Prototipo",
-        "projectPath": "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\Prototipo.csproj",
-        "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josem\\Desktop\\Prototipo Diseno\\Prototipo\\Prototipo\\obj\\",
+        "projectPath": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj",
+        "packagesPath": "C:\\Users\\andya\\.nuget\\packages\\",
+        "outputPath": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
