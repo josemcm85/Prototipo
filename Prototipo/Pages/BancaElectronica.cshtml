@@ -1,0 +1,280 @@
+﻿@page
+@model Prototipo.Pages.BancaElectronicaModel
+@{
+    ViewData["Title"] = "BancaElectronica";
+    Layout = "_ServicioCliente";
+}
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .column {
+            float: left;
+            width: 25%;
+            padding: 10px;
+            height: 50px;
+            margin-left: 20px;
+            border: 1px solid black;
+            width: 180px;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .row {
+            margin: auto;
+            text-align: left;
+            width: 1200px;
+        }
+
+        #buttons {
+            float: left;
+            width: 200px;
+            margin-left: 50px;
+            margin-top: 20px;
+        }
+
+        #mi {
+            margin-left: 200px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Banca Electronica</h1>
+    <div id="wrapper" class="row">
+        <div class="column" style="        background-color: #bbb;">
+            <h2>ID </h2>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h2>Nombre</h2>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h2>Correo</h2>
+        </div>
+        <div class="column" style="        background-color: #bbb;">
+            <p># Telefono</p>
+        </div>
+
+        <div class="column" style="        background-color: #bbb;">
+            <p>Cant Dinero</p>
+        </div>
+        <div class="column" style="        background-color: #bbb;">
+            <p>Transacciones</p>
+        </div>
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+        <!--column-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>1</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Andres</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>andres@gmail.com</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>83265246</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100000000</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>0</p>
+        </div>
+        <!--column-->
+
+        <!--column-->
+
+
+</body>
+</html>
+
+

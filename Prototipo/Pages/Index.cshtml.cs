@@ -39,8 +39,15 @@ namespace Prototipo.Pages
 
                 return RedirectToPage("/Admin");
 
+            } 
+            else if ((UserLogin.correo == "rh") && (UserLogin.pass == "rh"))
+            {
+                return RedirectToPage("/Reclutamiento");
             }
-
+            else if ((UserLogin.correo == "empleado") && (UserLogin.pass == "empleado"))
+            {
+                return RedirectToPage("/ServicioCliente");
+            }
             return Page();
 
         }

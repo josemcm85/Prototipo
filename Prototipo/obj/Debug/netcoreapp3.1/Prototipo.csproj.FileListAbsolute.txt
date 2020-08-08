@@ -34,82 +34,128 @@ C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp
 C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.genruntimeconfig.cache
 C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.csproj.CopyComplete
 C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Landing.cshtml.g.cs
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutCliente.cshtml.g.cs
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.csproj.CoreCompileInputs.cache
 C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente.cshtml.g.cs
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
-C:\Users\josem\Desktop\Prototipo Diseno\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutInterno.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.exe
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.deps.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.runtimeconfig.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.runtimeconfig.dev.json
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.pdb
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.Views.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Prototipo.Views.pdb
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.csprojAssemblyReference.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.AssemblyInfoInputs.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.AssemblyInfo.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.csproj.CoreCompileInputs.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.MvcApplicationPartsAssemblyInfo.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.RazorAssemblyInfo.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.RazorAssemblyInfo.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.TagHelpers.input.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.TagHelpers.output.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.RazorCoreGenerate.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Landing.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.RazorTargetAssemblyInfo.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.RazorTargetAssemblyInfo.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.Views.pdb
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\staticwebassets\Prototipo.StaticWebAssets.Manifest.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\staticwebassets\Prototipo.StaticWebAssets.xml
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.pdb
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.genruntimeconfig.cache
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.csproj.CopyComplete
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Admin.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Cliente.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutCliente.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutInterno.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Planilla.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutRH.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Reclutamiento.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Soporte.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\ServicioCliente.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ServicioCliente.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\BancaElectronica.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Banca.cshtml.g.cs
+D:\Andres Carpeta\U\diseno conceptual del software\proyectofintech\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Soporte2.cshtml.g.cs
