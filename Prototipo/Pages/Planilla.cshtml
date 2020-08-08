@@ -1,0 +1,183 @@
+﻿@page
+@model Prototipo.Pages.PlanillaModel
+@{
+    ViewData["Title"] = "Planilla";
+    Layout = "_LayoutRH";
+}
+
+<h1>Planilla</h1>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .column {
+            float: left;
+            width: 25%;
+            width: 190px;
+            height: 50px;
+            margin-right: 10px;
+            border: 1px solid black;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .row {
+            margin: auto;
+            text-align: left;
+            width: 1100px;
+        }
+
+        #buttons {
+            float: left;
+            width: 200px;
+            margin-left: 50px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="row">
+        <div class="column" style="background-color: #bbb;">
+            <h3>Nombre: </h3>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h3>Direccion</h3>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h3>Curriculum</h3>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h3>Departamento</h3>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h3>Salario</h3>
+        </div>
+
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Jose</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Pavas</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Daniel</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>pinares</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Fabricio</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>escazu</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Antonio</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>puntarenas</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Carmen</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Alajuela</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+        <!--columna-->
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Randall</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Desamparados</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>ing de software</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>Soporte Tecnico</p>
+        </div>
+        <div class="column" style="        background-color: #ffffff;">
+            <p>$100.000.000</p>
+        </div>
+        <!--columna-->
+
+    </div>
+
+    <div id="buttons" class="btn-group" role="group">
+        <div type="button" class="btn btn-primary">
+            Modificar
+        </div>
+        <div type="button" class="btn btn-primary">
+            Insertar
+        </div>
+        <div type="button" class="btn btn-primary">
+            Borrar
+        </div>
+    </div>
+
+</body>
+</html>
