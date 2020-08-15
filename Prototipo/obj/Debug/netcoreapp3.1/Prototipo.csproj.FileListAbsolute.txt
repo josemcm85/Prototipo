@@ -284,3 +284,4 @@ C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcore
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Prototipo.genruntimeconfig.cache
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Consulta.cshtml.g.cs
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Transferencias.cshtml.g.cs
+C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Pagos.cshtml.g.cs
