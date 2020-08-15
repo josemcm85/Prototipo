@@ -1,0 +1,176 @@
+﻿@page
+@model Prototipo.Pages.TransferenciasModel
+@{
+
+    ViewData["Title"] = "Transferencia";
+    Layout = "_LayoutCliente";
+
+}
+
+
+<center>
+    <h1>Transferencias</h1>
+</center>
+<hr size="2">
+<br />
+
+
+
+
+
+<div title="Contenedor" class="row" style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:100%; width:100%">
+
+    <div title="Izquierda" class="column" style="width:60%; height:100%; border-right:1px solid rgba(10, 0, 0, .3);">
+
+        <table style="width:100%;">
+
+            <thead>
+
+                <tr>
+                    <th>
+                        Cuenta
+                    </th>
+
+                    <th>
+                        Saldo
+                    </th>
+                </tr>
+            </thead>
+
+
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="cmbCuentas">Seleccione una cuenta:</label>
+
+                        <select name="cmbCuentas" id="cuentas" style="width:50%">
+                            <option value="principal">CB0578420 - Cuenta de Ahorro </option>
+                        </select>
+                    </td>
+
+                    <td>
+
+                        <label>₡170,000</label>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+
+        <hr />
+
+        <table cellspacing="45" style="width:100%;">
+
+            <thead>
+                <tr>
+                    <th><center> Seleccione el tipo de cuenta:</center> </th>
+                    <th><center> Ingrese la cuenta y la cantidad a transferir: </center></th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+
+                    <td>
+                        <form>
+                            <input type="radio" id="fin" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="fin"> Cuenta Fintec </label><br>
+                            <input type="radio" id="otro" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="otro">Otro Banco</label><br>
+                            <input type="radio" id="simpe" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="simpe">Simpe Movil</label>
+                        </form>
+                    </td>
+
+                    <td style=" border-left:1px solid rgba(10, 0, 0, .3);">
+                        <center>
+                            <form>
+                                <label for="cuenta">Cuenta:</label>
+                                <input type="text" id="cuenta" name="cuenta">
+
+                                <br />
+
+                                <label for="cantidad">Cantidad:</label>
+                                <input type="text" id="cantidad" name="cantidad">
+                                <br />
+
+                                <input type="submit" id="btnSub" name="btnSub" placeholder=" Transeferir">
+                            </form>
+                        </center>
+                   
+                        
+
+                    </td>
+
+                </tr>
+            </tbody>
+
+        </table>
+       
+
+
+    </div>
+
+
+    <div title="Derecha" class="column" style="width:40%;  height:100%;">
+
+        <center>
+            <h2> Historial </h2>
+        </center>
+        <hr />
+
+
+        <center>
+            <table style="width:100%">
+
+                <thead>
+
+                    <tr>
+
+                        <th> <center> Cuenta usada </center></th>
+                        <th> <center> Cuenta destino </center></th>
+                        <th> <center> Monto Transferido </center></th>
+
+                    </tr>
+                </thead>
+
+
+                <tbody>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> CB0708951  </center></td>
+                        <td> <center> ₡10,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> CB042069  </center></td>
+                        <td> <center> ₡30,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> +50660501361  </center></td>
+                        <td> <center> ₡70,000 </center></td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+
+        </center>
+
+
+
+    </div>
+
+</div>
