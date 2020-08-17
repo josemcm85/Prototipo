@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Prototipo\\Prototipo\\Prototipo\\Prototipo.csproj": {}
   },
   "projects": {
-    "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj": {
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Prototipo\\Prototipo\\Prototipo\\Prototipo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\Prototipo\\Prototipo\\Prototipo\\Prototipo.csproj",
         "projectName": "Prototipo",
-        "projectPath": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\Prototipo.csproj",
-        "packagesPath": "C:\\Users\\andya\\.nuget\\packages\\",
-        "outputPath": "D:\\Andres Carpeta\\U\\diseno conceptual del software\\proyectofintech\\Prototipo\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Prototipo\\Prototipo\\Prototipo\\Prototipo.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Prototipo\\Prototipo\\Prototipo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,140 @@
+﻿@page
+@model Prototipo.Pages.PagosModel
+@{
+    ViewData["Title"] = "Pagos";
+    Layout = "_LayoutCliente";
+
+}
+
+<center>
+    <h1> Pagos </h1>
+</center>
+<hr size="2">
+<br />
+
+
+<div class="row" style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:100%;">
+
+    <div class="column" style="width:60%; height:100%;">
+
+
+        <table cellspacing="40" style="width:100%">
+
+            <thead>
+
+
+                <tr>
+
+                    <th> <center> Cuenta </center></th>
+                    <th> <center> Detalle </center></th>
+                    <th> <center> Monto </center></th>
+                    <th> <center> Pagar </center></th>
+
+
+                </tr>
+
+            </thead>
+
+
+            <tbody>
+
+                <tr>
+
+                    <td><center> CB07250986 </center> </td>
+                    <td><center> Tarjeta de Credito </center> </td>
+                    <td><center> ₡25,000 </center> </td>
+                    <td> <a asp-page="/Transferencias">Pagar</a>  </td>
+
+                </tr>
+
+                <tr>
+
+                    <td><center> CB07250986 </center> </td>
+                    <td><center> Plan Celular </center> </td>
+                    <td><center> ₡16,000 </center> </td>
+                    <td> <a asp-page="/Transferencias">Pagar</a>  </td>
+
+                </tr>
+
+                <tr>
+
+                    <td><center> CB07250986 </center> </td>
+                    <td><center> Servicios de Internet </center> </td>
+                    <td><center> ₡30,000 </center> </td>
+                    <td> <a asp-page="/Transferencias">Pagar</a>  </td>
+
+                </tr>
+
+
+
+            </tbody>
+
+        </table>
+
+
+    </div>
+
+
+    <div class="column" style="width:40%;  height:100%;  border-left:1px solid rgba(10, 0, 0, .3);">
+
+        <center>
+            <h2> Historial </h2>
+        </center>
+        <hr />
+
+
+        <center>
+            <table style="width:100%">
+
+                <thead>
+
+                    <tr>
+
+                        <th> <center> Cuenta usada </center></th>
+                        <th> <center> Detalle </center></th>
+                        <th> <center> Fecha </center></th>
+                        <th> <center> Monto Transferido </center></th>
+
+                    </tr>
+                </thead>
+
+
+                <tbody>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Pago de Tarjeta  </center></td>
+                        <td> <center> 14/5/20  </center></td>
+                        <td> <center> ₡10,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Pago de Tarjeta  </center></td>
+                        <td> <center> 14/6/20  </center></td>
+                        <td> <center> ₡30,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Pago de Tarjeta  </center></td>
+                        <td> <center> 14/5/20  </center></td>
+                        <td> <center> ₡70,000 </center></td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+            <br />
+            <br />
+
+        </center>
+    </div>
+</div>

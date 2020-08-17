@@ -1,0 +1,81 @@
+﻿@page
+
+
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "_LayoutCliente";
+
+}
+
+<center>
+    <h1>Consultas</h1>
+</center>
+<hr size="2">
+<br />
+
+
+
+<div title="Contenedor" class="row" style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:100%; width:100%">
+
+
+
+
+    <div title="Izquierda" class="column" style="width:50%; height:100%; border-right:1px solid rgba(10, 0, 0, .3);">
+
+
+        <h2> Sus cuentas </h2>
+
+        <center>
+            <hr style="width:80%" />
+        </center>
+
+        <label for="cmbCuentas">Seleccione una cuenta:</label>
+
+        <select name="cmbCuentas" id="cuentas" style="width:50%">
+            <option value="principal">CB0578420 - Cuenta de Ahorro </option>
+        </select>
+
+        <br />
+        <center>
+            <button type="button"> Consultar </button>
+        </center>
+
+
+        <br />
+
+    </div>
+
+
+    <div title="Derecha" class="column" style="width:50%;  height:100%; " >
+
+        <center>
+            <table cellspacing="35" style=" height:100%; width:80%;">
+                <thead>
+                    <tr>
+                        <th> Saldo Disponible </th>
+                        <th> Saldo Retenido </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td> ₡170,000</td>
+                        <td> ₡5,000</td>
+
+                    </tr>
+                </tbody>
+
+            </table>
+
+        </center>
+
+
+
+
+    </div>
+
+
+</div>
+
+
