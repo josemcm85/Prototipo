@@ -287,3 +287,4 @@ C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcore
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Pagos.cshtml.g.cs
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Fondos.cshtml.g.cs
 C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Inversion.cshtml.g.cs
+C:\Users\Daniel\Documents\GitHub\Prototipo\Prototipo\Prototipo\obj\Debug\netcoreapp3.1\Razor\Pages\Prestamos.cshtml.g.cs
