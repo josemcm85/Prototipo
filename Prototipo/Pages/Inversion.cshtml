@@ -1,0 +1,222 @@
+﻿@page
+@model Prototipo.Pages.InversionModel
+@{
+
+    ViewData["Title"] = "Transferencia";
+    Layout = "_LayoutCliente";
+}
+
+
+<center>
+    <h1>Inversiones</h1>
+</center>
+<hr size="2">
+<br />
+
+
+
+
+<div title="Contenedor" class="row" style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:50%; width:100%">
+
+    <div title="Izquierda" class="column" style="width:60%; height:100%; border-right:1px solid rgba(10, 0, 0, .3);">
+        <center>
+        <table style="width:100%;">
+
+            <thead>
+
+                <tr>
+                    <th>
+                        Cuenta
+                    </th>
+
+                    <th>
+                        Saldo
+                    </th>
+                </tr>
+            </thead>
+
+
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="cmbCuentas">Seleccione una cuenta:</label>
+
+                        <select name="cmbCuentas" id="cuentas" style="width:50%">
+                            <option value="principal">CB0578420 - Cuenta de Ahorro </option>
+                        </select>
+                    </td>
+
+                    <td>
+
+                        <label>₡170,000</label>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+
+        <hr />
+
+        <table cellspacing="45" style="width:100%;">
+
+            <thead>
+                <tr>
+                    <th><center> Seleccione el tipo de cuenta:</center> </th>
+                    <th><center> Ingrese la cuenta y la cantidad a transferir: </center></th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+
+                    <td>
+                        <form>
+                            <input type="radio" id="fin" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="fin"> Cuenta Fintec </label><br>
+                            <input type="radio" id="otro" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="otro">Otro Banco</label><br>
+                            <input type="radio" id="simpe" name="tipo" asp-for="IsChecked" value="true">
+                            <label for="simpe">Simpe Movil</label>
+                        </form>
+                    </td>
+
+                    <td style=" border-left:1px solid rgba(10, 0, 0, .3);">
+                        <center>
+                            <form>
+                                <label for="cuenta">Cuenta:</label>
+                                <input type="text" id="cuenta" name="cuenta">
+
+                                <br />
+
+                                <label for="cantidad">Cantidad:</label>
+                                <input type="text" id="cantidad" name="cantidad">
+                                <br />
+
+                                <input type="submit" id="btnSub" name="btnSub" placeholder=" Transeferir">
+                            </form>
+                        </center>
+
+
+
+                    </td>
+
+                </tr>
+            </tbody>
+
+        </table>
+        </center>
+
+        <br />
+        <center><a href="https://iqbroker.co/lp/mobile/es/?aff=97638&afftrack=GAD_LA_ES_07_Invest_Web_kwd-14485379492&gclid=CjwKCAjw1ej5BRBhEiwAfHyh1NfALrZAyvLm8NTg6SAkOo7-Ja-RfGk4IFDCoBZzNzAUzEpSGb0t2hoCMrwQAvD_BwE&gclsrc=aw.ds"> Ver inversiones populares </a></center>
+
+    </div>
+
+
+    <div title="Derecha" class="column" style="width:40%;  height:100%;">
+
+        <center>
+            <h2> Historial </h2>
+        </center>
+        <hr />
+
+
+        <center>
+            <table style="width:100%">
+
+                <thead>
+
+                    <tr>
+
+                        <th> <center> Cuenta usada </center></th>
+                        <th> <center> Cuenta destino </center></th>
+                        <th> <center> Descripcion </center></th>
+                        <th> <center> Monto Invertido </center></th>
+
+                    </tr>
+                </thead>
+
+
+                <tbody>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> CB042069  </center></td>
+                        <td> <center> Acciones de Empresa </center></td>
+                        <td> <center> ₡100,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> CB042069   </center></td>
+                        <td> <center> Acciones de Empresa </center></td>
+                        <td> <center> ₡300,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> CB042069   </center></td>
+                        <td> <center> Acciones de Empresa </center></td>
+                        <td> <center> ₡700,000 </center></td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+
+        </center>
+
+
+
+    </div>
+
+</div>
+
+
+<div  style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:50%; width:100%">
+
+    <table>
+
+        <thead>
+
+            <tr> <th> Inversion </th></tr>
+
+        </thead>
+
+        <tbody>
+
+
+            <tr>
+                <td><center> <h2>Petróleo Crudo</h2> </center></td>
+                
+            </tr>
+
+            <tr>
+                <td>
+                <img src="~/image/crudeOil.png"/>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td> <center>
+                    $43 - <p style="color:green"> +1.4% </p>
+
+                    </center>
+                </td>
+            </tr>
+
+        </tbody>
+
+
+    </table>
+
+
+</div>
