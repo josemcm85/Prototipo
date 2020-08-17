@@ -1,0 +1,112 @@
+﻿@page
+@model Prototipo.Pages.FondosModel
+@{
+
+    ViewData["Title"] = "Fondos";
+    Layout = "_LayoutCliente";
+
+
+}
+
+<center>
+    <h1> Fondos de Pension </h1>
+</center>
+<hr size="2">
+<br />
+
+
+<div class="row" style="border-bottom:1px solid rgba(10, 0, 0, .3);  height:50%;">
+
+
+    <div class="column" style="width:50%; height:100%;">
+
+        <table style="width:100%" cellspacing="25">
+
+            <thead>
+                <tr>
+                    <th> <center>Cuenta destino</center> </th>
+                    <th><center> Nombre </center> </th>
+                    <th> <center>Cambiar cuenta</center> </th>
+                </tr>
+
+            </thead>
+
+            <tbody>
+                <tr>
+
+                    <td><center>CB0578420</center></td>
+                    <td><center> Pensión </center></td>
+                    <td><center><a asp-page="/Consulta"> Cambiar Cuenta </a></center></td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+
+    <div class="column" style="width:50%;  height:100%;  border-left:1px solid rgba(10, 0, 0, .3);">
+
+        <center>
+            <h2> Historial </h2>
+        </center>
+        <hr />
+
+
+        <center>
+            <table style="width:100%">
+
+                <thead>
+
+                    <tr>
+
+                        <th> <center> Cuenta usada </center></th>
+                        <th> <center> Detalle </center></th>
+                        <th> <center> Fecha </center></th>
+                        <th> <center> Monto  </center></th>
+
+                    </tr>
+                </thead>
+
+
+                <tbody>
+
+                    <tr>
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Seguro  </center></td>
+                        <td> <center> 20/5/20  </center></td>
+                        <td> <center> ₡150,000 </center></td>
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Seguro  </center></td>
+                        <td> <center> 20/6/20  </center></td>
+                        <td> <center> ₡150,000 </center></td>
+
+                    </tr>
+
+                    <tr>
+
+                        <td> <center> CB0578420  </center></td>
+                        <td> <center> Seguro  </center></td>
+                        <td> <center> 20/5/20  </center></td>
+                        <td> <center> ₡150,000 </center></td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+            <br />
+            <br />
+
+        </center>
+
+    </div>
+
+</div>
