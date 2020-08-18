@@ -7,7 +7,7 @@
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
-            <div class="col-xl-9 align-self-center" style="height: 161px;width: 720px;">
+            <div class="col-xl-9 align-self-center" style="height: 161px;width: 720px; background-color: rgba(255,255,255,0.33);">
                 <h1 class="text-center mb-5" style="margin: 0px;margin-top: 48px;margin-bottom: 0px;height: auto;">PROTOTIPO FINTECH</h1>
             </div>
             <div class="col-auto mx-auto" style="width: auto;padding-right: 0px;padding-left: 0px;margin: 0px;margin-right: 0px;margin-left: 0px;">
@@ -25,7 +25,7 @@
             <div class="col-auto" style="width: auto;padding: 0px;padding-right: 0px;background-color: rgba(255,255,255,0.33);margin: auto;margin-right: auto;margin-left: auto;">
                 <div class="row" style="margin: 0px;">
                     <div class="col">
-                        <h3 style="color: #2c3134;">Tipo de cambio</h3>
+                        <h3 style="color: #2c3134;">Tipo de cambio EUR / USD</h3>
                     </div>
                 </div>
                 <div class="row" style="margin-right: 0px;margin-left: 0px;">
@@ -37,8 +37,8 @@
                         </div>
                         <div class="row" style="margin: 0px;">
                             <div class="col">
-                                <h5 style="color: #2c3134;"><strong>₡</strong>583.00</h5>
-                            </div>
+                                <p id="unidadCompra" style="color: #2c3134; font-weight:bold"></p>
+</div>
                         </div>
                     </div>
                     <div class="col" style="padding: 0px;">
@@ -49,7 +49,7 @@
                         </div>
                         <div class="row" style="margin: 0px;">
                             <div class="col">
-                                <h5 style="color: #2c3134;"><strong>₡</strong>596.00</h5>
+                                <p id="unidadVenta" style="color: #2c3134; font-weight:bold"></p>
                             </div>
                         </div>
                     </div>
@@ -83,5 +83,6 @@
     </div>
 </footer>
 
-<script src="~/lib/bootstrap/bootstrap.min.js"></script>
-<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="/lib/jquery/dist/jquery.js"></script>
+<script src="/lib/bootstrap/bootstrap.min.js"></script>
+<script src="/js/Fixer.js"></script>
