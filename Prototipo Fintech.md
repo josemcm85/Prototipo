@@ -1,12 +1,12 @@
-# Prototipo Fintech
+Prototipo Fintech
 
-**Jose Miguel Chaves Miranda**
+-   **Jose Miguel Chaves Miranda**
 
-**Andres Aguilar Masis**
+-   **Andres Aguilar Masis**
 
-**Daniel Hernandez Sanchez**
+-   **Daniel Hernandez Sanchez**
 
-## Mockups
+Mockups
 
 >   Representación gráfica de posibles prototipos que se estarían utilizando
 >   para las diferentes pantallas dentro de la aplicación web.
@@ -73,11 +73,15 @@
 
 Imagen que contiene texto Descripción generada automáticamente
 
+Imagen que contiene texto Descripción generada automáticamente
+
 ## Diagrama de Objetos
 
 >   Mapeo de los diferentes Objetos con sus respectivos atributos
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/9bfca0134c35f08a021c9858e3a20ad2.png)
+
+Imagen que contiene texto Descripción generada automáticamente
 
 Imagen que contiene texto Descripción generada automáticamente
 
