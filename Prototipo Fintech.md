@@ -8,7 +8,8 @@
 
 ## Mockups
 
->   Prototipos de pantallas
+>   Representación gráfica de posibles prototipos que se estarían utilizando
+>   para las diferentes pantallas dentro de la aplicación web.
 
 ![](media/62111ae64aa5c2a6c8d33a2c5be2b5f8.png)
 
@@ -70,11 +71,15 @@
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/c58ab8fca6129864392c9fdbb9154f04.png)
 
+Imagen que contiene texto Descripción generada automáticamente
+
 ## Diagrama de Objetos
 
 >   Mapeo de los diferentes Objetos con sus respectivos atributos
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/9bfca0134c35f08a021c9858e3a20ad2.png)
+
+Imagen que contiene texto Descripción generada automáticamente
 
 ## NRAF
 
