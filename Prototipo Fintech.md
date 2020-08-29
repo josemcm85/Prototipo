@@ -1,4 +1,4 @@
-Prototipo Fintech
+# Prototipo Fintech
 
 -   **Jose Miguel Chaves Miranda**
 
@@ -6,7 +6,7 @@ Prototipo Fintech
 
 -   **Daniel Hernandez Sanchez**
 
-Mockups
+# Mockups
 
 >   Representación gráfica de posibles prototipos que se estarían utilizando
 >   para las diferentes pantallas dentro de la aplicación web.
@@ -37,7 +37,7 @@ Mockups
 
 ![](media/e3a4a01061791ee5ebd1c4d042243a3c.png)
 
-## CASO DE USO
+# CASO DE USO
 
 >   En este caso de uso vemos a un nivel alto lo que sería nuestra aplicación
 >   web con los debidos protocolos de autenticación y sus diferentes secciones
@@ -45,47 +45,39 @@ Mockups
 
 ![](media/934a9fe07981c24c836a65111c1c37f7.png)
 
-## RED
+# RED
 
 >   En este Diagrama de Red vemos como sería el sistema a un alto nivel
 
 ![](media/1037c1ec5108cb2554416e135fa1979e.png)
 
-## Seguridad
+# Seguridad
 
 >   En este diagrama vemos todos los protocolos de seguridad que se utilizaron
 
 ![](media/e94ff356884fbf8555ba4fab7767082f.png)
 
-## Diagrama de Secuencia
+# Diagrama de Secuencia
 
 >   Breve descripción de la secuencia de un usuario que ingresa a la página para
 >   realizar una transferencia de una cuenta a otra.
 
 ![](media/68e6a6f2cd74e83444897b442f11e53c.png)
 
-## Diagrama de Clases
+# Diagrama de Clases
 
 >   Mapeo de las diferentes clases que existen en el proyecto con sus variables
 >   y diferentes acciones que pueden realizar.
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/c58ab8fca6129864392c9fdbb9154f04.png)
 
-Imagen que contiene texto Descripción generada automáticamente
-
-Imagen que contiene texto Descripción generada automáticamente
-
-## Diagrama de Objetos
+# Diagrama de Objetos
 
 >   Mapeo de los diferentes Objetos con sus respectivos atributos
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/9bfca0134c35f08a021c9858e3a20ad2.png)
 
-Imagen que contiene texto Descripción generada automáticamente
-
-Imagen que contiene texto Descripción generada automáticamente
-
-## NRAF
+# NRAF
 
 >   En la table NRAF Podemos ver el detalle de los diferentes servicios que
 >   serán requeridos para la funcionalidad correcta de la aplicación en
