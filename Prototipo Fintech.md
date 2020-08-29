@@ -1,4 +1,4 @@
-## Prototipo Fintech
+# Prototipo Fintech
 
 -   **Jose Miguel Chaves Miranda**
 
