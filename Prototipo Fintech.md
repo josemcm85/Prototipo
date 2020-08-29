@@ -8,6 +8,8 @@
 
 ## Mockups
 
+\#\#\#\#\#\# \*Prototipos de pantallas\*
+
 ![](media/62111ae64aa5c2a6c8d33a2c5be2b5f8.png)
 
 ![](media/007906aeb7ff86de9031936cc8ed2739.png)
@@ -36,29 +38,56 @@
 
 ## CASO DE USO
 
+\#\#\#\#\#\# \*En este caso de uso vemos a un nivel alto lo que sería nuestra
+aplicación web con los debidos protocolos de autenticación y sus diferentes
+secciones por usuario\*
+
 ![](media/934a9fe07981c24c836a65111c1c37f7.png)
 
 ## RED
+
+\#\#\#\#\#\# \*En este Diagrama de Red vemos como sería el sistema a un alto
+nivel\*
 
 ![](media/1037c1ec5108cb2554416e135fa1979e.png)
 
 ## Seguridad
 
+\#\#\#\#\#\# \*En este diagrama vemos todos los protocolos de seguridad que se
+utilizaron\*
+
 ![](media/e94ff356884fbf8555ba4fab7767082f.png)
 
 ## Diagrama de Secuencia
+
+\#\#\#\#\#\# \*Breve descripción de la secuencia de un usuario que ingresa a la
+pagina para realizar una transferencia de una cuenta a otra.\*
 
 ![](media/68e6a6f2cd74e83444897b442f11e53c.png)
 
 ## Diagrama de Clases
 
+\#\#\#\#\#\# \*Mapeo de las diferentes clases que existen en el proyecto con sus
+variables y diferentes acciones que pueden realizar.\*
+
 ![Imagen que contiene texto Descripción generada automáticamente](media/c58ab8fca6129864392c9fdbb9154f04.png)
 
+Imagen que contiene texto Descripción generada automáticamente
+
 ## Diagrama de Objetos
+
+\#\#\#\#\#\# \*Mapeo de los diferentes Objetos con sus respectivos atributos.\*
 
 ![Imagen que contiene texto Descripción generada automáticamente](media/9bfca0134c35f08a021c9858e3a20ad2.png)
 
 ## NRAF
+
+\#\#\#\#\#\# \*En la table NRAF Podemos ver el detalle de los diferentes
+servicios que serán requeridos para la funcionalidad correcta de la aplicación
+en diferentes niveles tanto como de bases de datos, servicios de terceros y la
+conexión de parte de un cliente o administrador. Se especifica el tipo de
+conexión, el puerto destinado para el servicio y el tipo de tráfico que este
+tendrá.\*
 
 | **Tipo de Servicio**             | **IP de Fuente** | **IP de Destino** | **Puerto** | **Tipo de Trafico** | **TCP / UDP** |
 |----------------------------------|------------------|-------------------|------------|---------------------|---------------|
